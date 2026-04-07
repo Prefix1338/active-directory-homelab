@@ -95,17 +95,27 @@ During the lab, I diagnosed and fixed several real-world issues, including:
 - Drive mapping
 - Troubleshooting domain and GPO issues
 
-## Screenshots to Include
+## Screenshots
 
-Add screenshots of:
-- Domain structure / OUs
-- Users and groups
-- GPOs linked to OUs
-- Wallpaper GPO
-- Drive mapping GPO
-- Mapped drives on client machine
-- Shared folder permissions
-- Successful department drive access
+### Active Directory Structure
+- AD-users-and-groups.png  
+- AD-users-and-groups1.png  
+- AD-users-and-groups2.png  
+
+### Drive Mapping Configuration
+- drive-mapping.png  
+
+### GPO Configuration
+- HR-GPO-wallpapers.png  
+
+### Client-Side Drive Mapping
+- HR-drive-mapping(user-side view).png  
+- IT-drive-mapping(user-side view).png  
+- Sales-drive-mapping(user-side view).png  
+
+### Share Permissions
+- share-permissions1.png  
+- share-permissions2.png  
 
 ## What I Learned
 
