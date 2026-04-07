@@ -1,5 +1,12 @@
 # Active Directory Homelab
 
+## Lab Setup
+
+- Windows Server 2022 (Domain Controller)
+- Windows 10 Client (PC1)
+- VirtualBox environment
+- Internal network (192.168.1.0/24)
+
 Built a Windows Server 2022 Active Directory lab in VirtualBox to simulate a small enterprise environment with departmental users, security groups, file shares, Group Policy, wallpaper deployment, and network drive mapping.
 
 ## Project Overview
